@@ -1,0 +1,14 @@
+{
+    "name": "node-weixin-simsimi",
+        "version": "0.0.1",
+        "dependencies": {
+            "coffee-script": "~> 1.4.0",
+            "xml2js": ">=0.2.4",
+            "httpsync": "0.0.6",
+            "express": "3.x"
+        },
+        "engines": {
+            "node": "0.8.x",
+            "npm": "1.1.x"
+        }
+}
